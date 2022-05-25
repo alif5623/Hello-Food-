@@ -1,0 +1,8 @@
+Kentucky,MHE345,Restoran,KFC,51000,2
+Star,UD345,Restoran,Starbucks,0,2
+MikiD,PFG456,Restoran,McDonald's,22000,3
+alif5623,iwflts,Pembeli,Alif Ma'sum,20000,5
+yoshi,wjpmfu,Pembeli,Kasumi Yoshizawa,70000,1
+bojek,gwzm,Kurir,Kazuma Kiryu,40000,5
+bofood,cde345,Kurir,Majima,0,2
+abcd,cde345,Pembeli,Dummy,77000,2

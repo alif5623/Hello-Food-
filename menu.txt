@@ -1,0 +1,13 @@
+KFC,French Fries,15000,1
+KFC,Mocha Float,7000,2
+Starbucks,Double Chocolate Chip Frappuccino,52000,3
+Starbucks,Vanilla Latte,48000,4
+McDonald's,Cheese Burger,22000,5
+McDonald's,Fried Chicken,20000,6
+McDonald's,Chicken Burger,21000,7
+KFC,Fried Chicken,18000,8
+KFC,Coca Cola,8000,9
+KFC,Spaghetti,13000,10
+McDonald's,French Fries,15000,11
+McDonald's,Coca Cola,10000,12
+McDonald's,McFlurry,10000,13
